@@ -3,4 +3,4 @@ venv/
 baseConfig.py
 castleSwag-*
 zappa_settings.json
-swagcastlefacts-dev-template-*
+housefacts-dev-template-*
