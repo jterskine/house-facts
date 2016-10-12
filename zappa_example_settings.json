@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "houseFacts.app",
+        "s3_bucket": "bucketName",
+    }
+}

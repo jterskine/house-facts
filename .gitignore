@@ -1,0 +1,6 @@
+venv/
+*.pyc
+baseConfig.py
+castleSwag-*
+zappa_settings.json
+swagcastlefacts-dev-template-*
