@@ -1,0 +1,13 @@
+
+
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent give me a fact
+GetNewFactIntent tell me something
+
+LastFactIntent tell me last fast
+LastFactIntent give me last fast
+
+AMAZON.StopIntent end the game
+AMAZON.StopIntent end game
+AMAZON.StopIntent cancel the game

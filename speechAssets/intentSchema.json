@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewFactIntent"
+    },
+    {
+      "intent": "LastFactIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
