@@ -5,8 +5,8 @@ GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
 GetNewFactIntent tell me something
 
-LastFactIntent tell me last fast
-LastFactIntent give me last fast
+LastFactIntent tell me last fact
+LastFactIntent give me last fact
 
 AMAZON.StopIntent end the game
 AMAZON.StopIntent end game
