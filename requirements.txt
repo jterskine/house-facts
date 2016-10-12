@@ -1,5 +1,5 @@
 flask-ask==0.7.8
-zappa==0.26.0
+zappa==0.27.0
 gspread==0.4.1
 requests==2.11.1
 oauth2client==3.0.0
